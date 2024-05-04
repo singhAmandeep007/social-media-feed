@@ -1,0 +1,106 @@
+[
+  {
+    "owner": "Yaroslav Shuraev",
+    "ownerProfileUrl": "https://picsum.photos/id/41/200/300",
+    "likes": 544,
+    "timestamp": 1704856201000,
+    "title": "Retro with an urban touch! The prices for the new 2024 Jeep Wrangler start from ₹67.65 Lakh with a wide variety of accessories.",
+    "commentsCount": 211,
+    "id": 101,
+    "media": [
+      {
+        "type": "image",
+        "data": "https://picsum.photos/id/39/200/300"
+      },
+      {
+        "type": "video",
+        "data": "http://commondatastorage.googleapis.com/gtv-videos-bucket/broke/BigBuckBunny.mp4"
+      },
+      {
+        "type": "image",
+        "data": "https://picsum.photos/id/101/200/300"
+      },
+      {
+        "type": "video",
+        "data": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      }
+    ]
+  },
+  {
+    "owner": "Powerdrift",
+    "ownerProfileUrl": "https://picsum.broke/id/39/200/300",
+    "likes": 90123,
+    "timestamp": 1708571401000,
+    "title": "Retro with an urban touch! The prices for the new 2024 Jeep Wrangler start from ₹67.65 Lakh with a wide variety of accessories.",
+    "commentsCount": 36,
+    "id": 102,
+    "media": [
+      {
+        "type": "image",
+        "data": "https://picsum.photos/id/32/200/300"
+      },
+      {
+        "type": "image",
+        "data": "https://picsum.broke/id/33/200/300"
+      },
+      {
+        "type": "image",
+        "data": "https://picsum.photos/id/34/200/300"
+      }
+    ]
+  },
+  {
+    "owner": "Scuderia Ferrari",
+    "ownerProfileUrl": "https://picsum.photos/id/93/200/300",
+    "likes": 873826,
+    "timestamp": 1709349001000,
+    "title": "Say hello to our new #MiamiGP race suits 😍💙",
+    "commentsCount": 4916,
+    "id": 103,
+    "media": [
+      {
+        "type": "image",
+        "data": "https://picsum.broke/id/99/200/300"
+      },
+      {
+        "type": "image",
+        "data": "https://picsum.photos/id/88/200/300"
+      },
+      {
+        "type": "image",
+        "data": "https://picsum.photos/id/29/200/300"
+      }
+    ]
+  },
+  {
+    "owner": "7.10 Store",
+    "ownerProfileUrl": "https://picsum.photos/id/74/200/300",
+    "likes": 154,
+    "timestamp": 1713323401000,
+    "title": "Step into cultural fusion and cutting-edge design with our latest sneaker collection! 🌍✨",
+    "commentsCount": 0,
+    "id": 104,
+    "media": [
+      {
+        "type": "image",
+        "data": "https://picsum.photos/id/20/200/300"
+      },
+      {
+        "type": "image",
+        "data": "https://picsum.photos/id/15/200/300"
+      },
+      {
+        "type": "image",
+        "data": "https://picsum.photos/id/11/200/300"
+      },
+      {
+        "type": "image",
+        "data": "https://picsum.broke/id/2/200/300"
+      },
+      {
+        "type": "image",
+        "data": "https://picsum.photos/id/3/200/300"
+      }
+    ]
+  }
+]

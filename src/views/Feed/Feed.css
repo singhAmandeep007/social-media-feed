@@ -1,0 +1,24 @@
+.feed {
+  height: calc(100vh - 100px);
+  width: 412px;
+
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+
+  background: black;
+
+  border: 2px solid var(--clr-gray-100);
+
+  overflow: hidden;
+
+  .feed-wrapper {
+    overflow-y: scroll;
+  }
+
+  .feed-item {
+    &:not(:first-child, :last-child) {
+      margin: 10px 0;
+    }
+  }
+}

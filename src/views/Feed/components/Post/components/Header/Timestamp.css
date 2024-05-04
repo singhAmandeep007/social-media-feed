@@ -1,0 +1,14 @@
+.post-header-timestamp {
+  margin-left: 5px;
+  color: var(--clr-gray-200);
+
+  .post-header-timestamp-dot {
+    margin-right: 8px;
+    display: inline-block;
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: var(--clr-gray-100);
+    vertical-align: middle;
+  }
+}

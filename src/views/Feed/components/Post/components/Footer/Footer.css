@@ -1,0 +1,36 @@
+.post-footer {
+  display: flex;
+  flex-direction: column;
+
+  align-items: start;
+
+  padding: 10px 5px;
+
+  .post-footer-like-btn {
+    font-size: 14px;
+    font-weight: 600;
+
+    display: flex;
+    align-items: end;
+    gap: 5px;
+    margin-bottom: 5px;
+
+    &.liked {
+      color: var(--clr-blue-100);
+    }
+
+    img {
+      width: 20px;
+      height: 20px;
+    }
+  }
+
+  .post-footer-like-counts {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .post-footer-comment-counts {
+    font-size: 12px;
+  }
+}

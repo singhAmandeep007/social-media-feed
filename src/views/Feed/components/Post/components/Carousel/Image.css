@@ -1,0 +1,19 @@
+.post-carousel-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-size: cover;
+
+  width: 100%;
+  height: 100%;
+
+  &.fallback {
+    height: 50px;
+    width: 50px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}

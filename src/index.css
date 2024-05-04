@@ -1,0 +1,64 @@
+:root {
+  font-family: "Nunito", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --clr-gray-100: #ced4da;
+  --clr-gray-200: #aaaaaa;
+  --clr-gray-300: #555555;
+  --clr-blue-100: #4a86e8;
+}
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Additional Reset Styles */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+input,
+textarea,
+select,
+button {
+  outline: none;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+
+  margin: 10px;
+}
+
+/* utils */
+.rotate-180 {
+  transform: rotate(180deg);
+}
