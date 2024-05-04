@@ -7,9 +7,11 @@ const calculateDelta = (oldDate: number, newDate: number): string => {
 
   if (days > 30) {
     return `${months}m`;
-  } else {
+  }
+  if (days > 0) {
     return `${days}d`;
   }
+  return "today";
 };
 
 export function Timestamp({ oldDate, newDate = Date.now() }: { oldDate: number; newDate?: number }) {
