@@ -37,6 +37,8 @@ export const Video: FC<PropsWithChildren<TVideoProps>> = ({ src, onDoubleClick }
 
   useEffect(() => {
     setVideoError(false);
+    if (videoRef.current) videoRef.current.style.opacity = "0.5";
+    if (videoPlayPauseBtnRef.current) videoPlayPauseBtnRef.current.hidden = false;
   }, [src]);
 
   return (
