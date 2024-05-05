@@ -1,4 +1,4 @@
-# Instagram like feed using React + TS + Vite
+# Instagram like social media feed using React + TS + Vite
 
 ## How to run on local ?
 
