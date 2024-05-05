@@ -27,20 +27,11 @@ export const RenderIfVisible: React.FC<PropsWithChildren<TRenderIfVisibleProps>>
     if (element) {
       observerRef.current = new IntersectionObserver(
         (entries) => {
-          if (window.requestIdleCallback) {
-            window.requestIdleCallback(
-              () => {
-                if (shouldObserverOnce && entries[0].isIntersecting) {
-                  setIsVisible(true);
-                }
-                if (!shouldObserverOnce) {
-                  setIsVisible(entries[0].isIntersecting);
-                }
-              },
-              {
-                timeout: 600,
-              }
-            );
+          if (shouldObserverOnce && entries[0].isIntersecting) {
+            setIsVisible(true);
+          }
+          if (!shouldObserverOnce) {
+            setIsVisible(entries[0].isIntersecting);
           }
         },
         { root, rootMargin: `${visibleOffset}px 0px ${visibleOffset}px 0px` }
