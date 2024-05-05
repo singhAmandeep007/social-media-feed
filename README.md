@@ -22,10 +22,7 @@ npm run dev
 
 ## Product Demo
 
-<video controls width="500">
-	<source src="./src/assets/social-media-feed.mp4" type="video/mp4">
-	Your browser does not support the video tag.
-</video>
+https://github.com/singhAmandeep007/social-media-feed/blob/main/src/assets/social-media-feed.mp4
 
 ## Product Description
 
