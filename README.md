@@ -22,7 +22,7 @@ npm run dev
 
 ## Product Demo
 
-https://github.com/singhAmandeep007/social-media-feed/blob/main/src/assets/social-media-feed.mp4
+[Demo](https://aman99.egnyte.com/dl/BgubA3kpyX)
 
 ## Product Description
 
