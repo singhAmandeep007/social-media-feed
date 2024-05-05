@@ -20,6 +20,13 @@ npm run dev
 3. [Like](./src/assets/3.png)
 4. [Video](./src/assets/4.png)
 
+## Product Demo
+
+<video controls width="500">
+	<source src="./src/assets/social-media-feed.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
+
 ## Product Description
 
 Instagram like social networking application. The application shows a list of “posts” which the user could interact with. A post contains information around the post owner, timestamp when it was posted, likes and comments count.
