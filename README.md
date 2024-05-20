@@ -22,8 +22,6 @@ npm run dev
 
 ## [Product Demo](https://res.cloudinary.com/dryiuvv1l/video/upload/v1716229715/social-media-feed/social-media-feed_jtykic.mp4)
 
-
-
 [![DEMO](https://res.cloudinary.com/dryiuvv1l/image/upload/v1716230409/social-media-feed/Screenshot_2024-05-21_at_12.09.48_AM_s8emby.png)](https://res.cloudinary.com/dryiuvv1l/video/upload/v1716229715/social-media-feed/social-media-feed_jtykic.mp4)
 
 
