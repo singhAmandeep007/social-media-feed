@@ -20,9 +20,12 @@ npm run dev
 3. [Like](./src/assets/3.png)
 4. [Video](./src/assets/4.png)
 
-## Product Demo
+## [Product Demo](https://res.cloudinary.com/dryiuvv1l/video/upload/v1716229715/social-media-feed/social-media-feed_jtykic.mp4)
 
-[Demo](https://aman99.egnyte.com/dl/BgubA3kpyX)
+<video controls>
+	<source src="https://res.cloudinary.com/dryiuvv1l/video/upload/v1716229715/social-media-feed/social-media-feed_jtykic.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
 
 ## Product Description
 
